@@ -222,5 +222,373 @@
         "url": "https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8"
       }
     ]
+  },
+  {
+    "id": "asianbox",
+    "name": "AsianBox",
+    "description": "Mongolian entertainment channel.",
+    "genres": ["Entertainment"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/WAYZSgx.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "bloomberg-tv-mongolia",
+    "name": "Bloomberg TV Mongolia",
+    "description": "Mongolian business news channel.",
+    "genres": ["Business", "News"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://bloombergtv.mn/",
+    "poster": "https://i.imgur.com/OuogLHx.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "c1",
+    "name": "C1",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/v1mHG5x.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "central-tv",
+    "name": "Central TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://central.mn/",
+    "poster": "https://i.imgur.com/E9wAUrT.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "channel-11",
+    "name": "Channel 11",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/GztOajC.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "cinema",
+    "name": "Cinema",
+    "description": "Mongolian movie channel.",
+    "genres": ["Movies"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/yib6dM2.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "dream-tv",
+    "name": "Dream TV",
+    "description": "Mongolian entertainment channel.",
+    "genres": ["Entertainment"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/YPbvzgV.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Mongolian education and entertainment channel.",
+    "genres": ["Education", "Entertainment"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/0m8t3vh.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "gandan-tv",
+    "name": "Gandan TV",
+    "description": "Mongolian culture channel.",
+    "genres": ["Culture"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/z18PSIo.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "global-tv",
+    "name": "Global TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/Es5FX4z.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "malchin-tv",
+    "name": "Malchin TV",
+    "description": "Mongolian culture channel.",
+    "genres": ["Culture"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/vCdEBZo.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "mn25",
+    "name": "MN25",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/F3MMJMd.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "mnc",
+    "name": "MNC",
+    "description": "Mongolian news channel.",
+    "genres": ["News"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/gMVqbwU.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "moviebox",
+    "name": "MovieBox",
+    "description": "Mongolian movie channel.",
+    "genres": ["Movies"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/xeO1Zb4.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "parliament-tv",
+    "name": "Parliament TV",
+    "description": "Mongolian legislative channel.",
+    "genres": ["Legislative", "News"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.parliament.mn/",
+    "poster": "https://i.imgur.com/OD7YKuz.jpeg",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "star-tv",
+    "name": "Star TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/R6hxJgl.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "suld-tv",
+    "name": "Suld TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/CnLxehv.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "tenger-tv",
+    "name": "TenGer TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/MmPvkcO.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "tm-tv",
+    "name": "TM TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/Bza9r7U.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "ulzii-tv",
+    "name": "Ulzii TV",
+    "description": "Mongolian general television channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/p7tsUTI.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "soyon-gegeeruulegch",
+    "name": "Soyon Gegeeruulegch",
+    "description": "Mongolian education and culture channel.",
+    "genres": ["Education", "Culture"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/iBZVvtW.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "nei-monggol-tv",
+    "name": "Nei Monggol TV",
+    "description": "Mongolian-language channel from Inner Mongolia.",
+    "genres": ["Culture", "General"],
+    "language": "Mongolian",
+    "country": "China",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/WeugJBE.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "seven-channel",
+    "name": "Seven Channel",
+    "description": "Mongolian general television channel. This stream may not broadcast 24/7.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.skygo.mn/",
+    "poster": "https://i.imgur.com/9Ld5ATz.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8"
+      }
+    ]
   }
 ]
