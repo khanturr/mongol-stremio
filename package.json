@@ -1,0 +1,23 @@
+{
+  "name": "stremio-addon-mgl",
+  "version": "0.1.0",
+  "description": "A Stremio addon for Mongolian live TV channels.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/catalog.test.js"
+  },
+  "keywords": [
+    "stremio",
+    "addon",
+    "mongolia",
+    "iptv"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

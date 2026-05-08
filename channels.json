@@ -1,0 +1,50 @@
+[
+  {
+    "id": "mnb",
+    "name": "MNB",
+    "description": "Mongolian National Broadcaster flagship live channel.",
+    "genres": ["General", "News"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.mnb.mn/live",
+    "poster": "https://i.imgur.com/9YVp1SF.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://live.mnb.mn/hls/mnb.stream.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "mnb-sport",
+    "name": "MNB Sport",
+    "description": "Mongolian National Broadcaster sports channel.",
+    "genres": ["Sports"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.mnb.mn/live/sport",
+    "poster": "https://i.imgur.com/z854PC3.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "mnb-world",
+    "name": "MNB World",
+    "description": "Mongolian National Broadcaster international live channel.",
+    "genres": ["General"],
+    "language": "Mongolian",
+    "country": "Mongolia",
+    "website": "https://www.mnb.mn/live/world",
+    "poster": "https://i.imgur.com/PHlj84Q.png",
+    "streams": [
+      {
+        "name": "Live",
+        "url": "https://live.mnb.mn/hls/mnb_world.stream.m3u8"
+      }
+    ]
+  }
+]
