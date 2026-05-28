@@ -2,7 +2,7 @@
 
 A small Stremio addon that exposes Mongolian live TV channels as a `tv` catalog.
 
-The bundled starter list uses publicly documented MNB live streams. Add more channels by editing `channels.json` with streams you are allowed to redistribute or personally use.
+The bundled starter list uses publicly documented Mongolian channel live streams. Add more channels by editing `channels.json` with streams.
 
 ## Setup
 
